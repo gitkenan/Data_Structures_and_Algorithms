@@ -47,3 +47,18 @@ linked_list.append(4)
 linked_list.display()
 linked_list.reverse()
 linked_list.display()
+
+# Create a new linked list and display it.
+new_linked_list = LinkedList()
+new_linked_list.append(5)
+new_linked_list.append(6)
+new_linked_list.append(7)
+new_linked_list.append(8)
+print("Original linked list:")
+new_linked_list.display()
+
+# Reverse the new linked list and display the reversed list.
+new_linked_list.reverse()
+print("Reversed linked list:")
+new_linked_list.display()
+
