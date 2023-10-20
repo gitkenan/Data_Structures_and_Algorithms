@@ -3,6 +3,8 @@
 def duplicate_numbers(Arr):
     duplicates = []
     singulars = []
+    # This is an example of a beautifully simple solution to a seemingly complex problem.
+    # By simply checking that the element isn't in the set, we can easily build these two arrays.
     for i in Arr:
         if i not in singulars:
             singulars.append(i)
