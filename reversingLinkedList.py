@@ -1,4 +1,5 @@
 # let's reverse a linked list in Python...
+# more comments coming soon... (hopefully)
 
 # Define the Node class to represent a single node in the linked list.
 class Node:
