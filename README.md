@@ -1,20 +1,21 @@
-## Data Structures and Algorithms
-My solutions to various problems that either come to my head or were found online. The goal here is to not stay rusty in my Python skills and generally to have a place to display my work.
+# Data Structures and Algorithms
 
-# Main goal
-The main goal here is to advance my skillset in Python and my understanding. I will first start by solving the problems, moving onto adding comments to explain in more depth how these problems are solved and what the Python commands mean. The main objective
-here is to increase understanding.
+Welcome to my repository of solutions for various programming problems! Whether they are challenges that popped into my mind or were discovered online, this repository serves as a virtual notepad to showcase my understanding, ability and progression in Python.
 
-# Specific goals
-I want to slowly become more complex in my problem solving and understanding. Despite some of these solutions being easy to find online, the important thing here is that I display comments which explain to the reader how to understand the solution.
-Let's be real, as a developer it's rare we write completely original code, the real value is in understanding and ettiquete. 
+## Main Goal
 
-# A note about comments
-From the usual correct ettiquete of code comments is to be
-brief and explain the 'why' of the code you are commenting on.
-In this repository, like others, I will be disregarding this ettiquete
-at times for the purpose of self-education and revision. 
-This is in accordance with the main objective of this repository. 
+The primary aim of this repository is to enhance my Python programming skills and deepen my understanding of data structures and algorithms. I start by tackling problems and then go the extra mile by adding detailed comments to explain the inner workings of my solutions. The key objective here is to foster a deeper understanding of the code.
 
-# Extra bonuses
-This project is one which allows for frequent updates which will keep my fresh in my Git skills and show my eagerness to keep contributing to the code. I also look forward to be able to explore and learn new areas in Python such as testing.
+## Specific Goals
+
+I aspire to gradually delve into more complex problems and concepts as I progress. While it's true that many of these solutions can be found online, the real value lies in the explanatory comments. Let's face it, as developers, our value is not in how original your code is. The true worth comes from understanding and implementation.
+
+## A Note About Comments
+
+While the conventional code comment etiquette emphasizes brevity and explaining the 'why' of the code, this repository occasionally deviates from that norm. This is done intentionally to facilitate self-education and review, aligning with the repository's primary objective.
+
+## Extra Bonuses
+
+This project offers the added benefit of frequent updates, keeping my Git skills sharp and demonstrating my ongoing commitment to coding. I'm also excited to delve into new areas of Python, such as testing, as part of this learning journey.
+
+Feel free to explore, learn, and share in my journey of growth and discovery!
