@@ -16,5 +16,5 @@ In this repository, like others, I will be disregarding this ettiquete
 at times for the purpose of self-education and revision. 
 This is in accordance with the main objective of this repository. 
 
-# Extra bonues
+# Extra bonuses
 This project is one which allows for frequent updates which will keep my fresh in my Git skills and show my eagerness to keep contributing to the code. I also look forward to be able to explore and learn new areas in Python such as testing.
