@@ -9,5 +9,12 @@ here is to increase understanding.
 I want to slowly become more complex in my problem solving and understanding. Despite some of these solutions being easy to find online, the important thing here is that I display comments which explain to the reader how to understand the solution.
 Let's be real, as a developer it's rare we write completely original code, the real value is in understanding and ettiquete. 
 
+# A note about comments
+From the usual correct ettiquete of code comments is to be
+brief and explain the 'why' of the code you are commenting on.
+In this repository, like others, I will be disregarding this ettiquete
+at times for the purpose of self-education and revision. 
+This is in accordance with the main objective of this repository. 
+
 # Extra bonues
 This project is one which allows for frequent updates which will keep my fresh in my Git skills and show my eagerness to keep contributing to the code. I also look forward to be able to explore and learn new areas in Python such as testing.
