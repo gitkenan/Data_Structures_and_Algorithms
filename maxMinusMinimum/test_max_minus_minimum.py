@@ -1,9 +1,5 @@
 import unittest
-
-def get_absolute_difference(arrayOfNumbers):
-    if len(arrayOfNumbers) < 2:
-        return 0
-    return abs(max(arrayOfNumbers) - min(arrayOfNumbers))
+from your_code import get_absolute_difference
 
 class TestGetAbsoluteDifference(unittest.TestCase):
     def test_positive_numbers(self):

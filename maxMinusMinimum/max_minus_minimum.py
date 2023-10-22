@@ -11,6 +11,3 @@ if __name__ == "__main__":
     numbers = [5, 3, 9, 1, 7]
     result = get_absolute_difference(numbers)
     print("The absolute difference is:", result)
-
-    # Let's try something where it might be negative
-    # trickySet =
