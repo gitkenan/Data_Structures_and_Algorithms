@@ -1,12 +1,12 @@
 # Let's write a function which can solve the following:
 # Given a string of different characters, if there is less than 1 capital letter, refuse to accept the password.
 
-def strictPass(inputString):
+def strictPass(input_string):
     # Initialize a variable to track whether a capital letter is found.
     has_capital = False
 
     # Loop through each character in the input string.
-    for char in inputString:
+    for char in input_string:
         # Check if the character is a capital letter.
         if char.isupper():
             # If a capital letter is found, set has_capital to True and break out of the loop.
