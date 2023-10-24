@@ -1,13 +1,13 @@
 # How do you find the missing number in a given integer
 # array of 1 to 100?
 
-def missing_number(Arr):
+def missing_number(arr):
     for i in range(1, 101):
-        if i in Arr:
+        if i in arr:
             pass
         else:
             return i
 
-Array = [j for j in range(1, 100)]
+array = [j for j in range(1, 100)]
 
-print(missing_number(Array))
+print(missing_number(array))
