@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-Welcome to my repository of solutions for various programming problems! Whether they are challenges that popped into my mind or were discovered online, this repository serves as a virtual notepad to showcase my understanding, ability and progression in Python.
+Welcome to the world of... various problems! Whether they are challenges that popped into my mind or were discovered online, this repository serves as a virtual notepad to showcase my understanding, ability and progression in Python.
 
 ## Main Goal
 
