@@ -10,7 +10,10 @@ def format_phone_number(input_number):
     if len(cleaned_number) != 11:
         print("Invalid input. Please enter a valid 11-digit phone number.")
         return None
-
+    # essentially combines the constant "07" with the part of the cleaned_number 
+    # string starting from the third character, which effectively formats the 
+    # phone number as "07xxxxxxxxx," where the "x"s represent the numbers in the 
+    # cleaned number.
     return f"07{cleaned_number[2:]}"
 
 def main():
