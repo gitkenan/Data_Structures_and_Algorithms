@@ -2,10 +2,7 @@
 
 def flip_array(arr, direction):
     if direction == 'horizontal':
-        # Flip horizontally (left to right)
-        # row[::-1] is the expression that is evaluated for each 
-        # row. It uses slicing to reverse the order of elements in 
-        # each row. row[::-1] means to start from the end of the 
+        # row[::-1] uses slicing to start from the end of the 
         # list (-1 index) and move towards the beginning, 
         # reversing the order of elements.
         return [row[::-1] for row in arr]
