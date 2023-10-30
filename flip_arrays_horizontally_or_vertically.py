@@ -19,7 +19,9 @@ def flip_array(arr, direction):
 def main():
     # Example array
     original_array = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-
+    print("We are starting with the array:")
+    for row in original_array:
+            print(row)
     # Input prompt
     direction = input("Enter 'horizontal' or 'vertical' to flip the array: ")
     
