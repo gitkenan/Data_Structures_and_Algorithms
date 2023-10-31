@@ -10,7 +10,7 @@ def flip_array(arr, direction):
         # Flip vertically (upside down)
         return arr[::-1]
     else:
-        # Handle invalid direction
+        # Handle unrecognised string
         raise ValueError("Invalid direction. Use 'horizontal' or 'vertical'.")
 
 def main():
