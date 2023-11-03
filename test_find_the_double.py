@@ -3,7 +3,7 @@
 # other language. 
 import unittest
 from find_the_double import duplicate_numbers
-class TestFindTheDouble(unittest.test_case):
+class TestFindTheDouble(unittest.TestCase):
     def test_duplicate_numbers():
         # Test case 1: Array with multiple duplicates
         arr1 = [1, 2, 3, 4, 5, 5, 6, 6, 7, 8, 9, 23, 23, 545, 3463, 235, 2363]
