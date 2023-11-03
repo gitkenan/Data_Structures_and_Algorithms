@@ -4,23 +4,22 @@
 import unittest
 from find_the_double import duplicate_numbers
 class TestFindTheDouble(unittest.TestCase):
-    def test_duplicate_numbers(self):
-        # Test case 1: Array with multiple duplicates
+    def test_multiple_duplicate_numbers(self):
         arr1 = [1, 2, 3, 4, 5, 5, 6, 6, 7, 8, 9, 23, 23, 545, 3463, 235, 2363]
         expected_result1 = [5, 6, 23]
         self.assertIs(duplicate_numbers(arr1), expected_result1)
     
-        # Test case 2: Array with no duplicates
+    def test_zero_duplicate_numbers(self):
         arr2 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
         expected_result2 = []
         self.assertIs(duplicate_numbers(arr2), expected_result2)
     
-        # Test case 3: Array with a single element (no duplicates)
+    def test_one_element(self):
         arr3 = [42]
         expected_result3 = []
         self.assertIs(duplicate_numbers(arr3), expected_result3)
-    
-        # Test case 4: Array with all elements being duplicates
+        
+    def test_fully_duplicate_numbers(self):
         arr4 = [5, 5, 5, 5, 5]
         expected_result4 = [5]
         self.assertIs(duplicate_numbers(arr4), expected_result4)
