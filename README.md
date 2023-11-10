@@ -4,7 +4,7 @@ Welcome to my educational shelf of solved problems! Whether they are challenges 
 
 ## Main Goal
 
-The primary aim of this repository is to enhance my Python programming skills and deepen my understanding of data structures and algorithms. I start by showing problems and then go the extra mile by adding detailed comments to explain the inner workings of my solutions. The key objective here is to foster a deeper understanding of the code and perhaps write some tests too...
+The primary aim of this repository is to enhance my Python programming skills and deepen my understanding of data structures and algorithms. I start by showing problems and then go the extra mile by adding detailed comments to explain the inner workings of the solutions. The key objective here is to foster a deeper understanding of the code and perhaps write some tests too...
 
 ## Specific Goals
 
