@@ -14,8 +14,4 @@ I aspire to gradually delve into more complex problems and concepts as I progres
 
 While the conventional code comment etiquette emphasizes brevity and explaining the 'why' of the code, this repository occasionally deviates from that norm. This is done intentionally to facilitate self-education and review, aligning with the repository's primary objective.
 
-## Extra Bonuses
-
-This project offers the added benefit of frequent updates, keeping my Git skills sharp and demonstrating my ongoing commitment to coding. I'm also excited to delve into new areas of Python, such as testing, as part of this learning journey.
-
 Feel free to explore, learn, and share in my journey of growth and discovery!
