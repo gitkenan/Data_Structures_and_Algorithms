@@ -10,4 +10,5 @@ def random_complex_number_within_abs(value):
     
 if __name__ = "__main__":
     some_value = random.uniform(0, 1000)
-    random_complex_number_within_abs(some_value)
+    x_in_c = random_complex_number_within_abs(some_value)
+    print("The generated complex value is " + x_in_x)
