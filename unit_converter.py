@@ -1,0 +1,30 @@
+def celsius_to_fahrenheit(celsius):
+    return (celsius * 9/5) + 32
+
+def fahrenheit_to_celsius(fahrenheit):
+    return (fahrenheit - 32) * 5/9
+
+def cm_to_inches(cm):
+    return cm * 0.393701
+
+def miles_to_km(miles):
+    return miles * 1.60934
+
+# Example usage
+if __name__ == "__main__":
+    # Temperature conversion
+    celsius_input = 25
+    fahrenheit_output = celsius_to_fahrenheit(celsius_input)
+	# The following is a Python 3.6 feature called f-string, which is
+	# a function-string literal; it's used to embed values into strings like this
+    print(f"{celsius_input} degrees Celsius is {fahrenheit_output} degrees Fahrenheit")
+
+    # Length conversion
+    cm_input = 100
+    inches_output = cm_to_inches(cm_input)
+    print(f"{cm_input} centimeters is equal to {inches_output} inches")
+
+    # Distance conversion
+    miles_input = 10
+    km_output = miles_to_km(miles_input)
+    print(f"{miles_input} miles is equal to {km_output} kilometers")
