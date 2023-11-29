@@ -8,7 +8,7 @@ The primary aim of this repository is to enhance my Python skills and revise mat
 
 ## Specific Goals
 
-I aspire to gradually delve into more complex problems and concepts as I progress. While it's true that many of these solutions can be found online, the real value lies in the explanatory comments. Let's face it, as developers, our value is not in how original your code is. The true worth comes from understanding and implementation.
+I aspire to gradually delve into more complex problems and concepts as I progress. While it's true that many of these solutions can be found online, the real value lies in the explanatory comments. Let's face it, as developers, our value is not in how original your code is. The true worth comes from comprehension and other skills.
 
 ## A Note About Comments
 
